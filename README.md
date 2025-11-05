@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ctrain149
 - 👀 I’m interested in becoming a better developer.
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Rust game engine low-level design.
+- 🌱 I’m currently learning how to use Kiro
 - 📫 Email me: ctrain149@gmail.com
 
 <!---
